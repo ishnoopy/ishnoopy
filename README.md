@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aldringuasa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oJQDP6l3YaONCbU4wlCf4tmDBx69GvRL/view?usp=sharing](https://drive.google.com/file/d/1oJQDP6l3YaONCbU4wlCf4tmDBx69GvRL/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oJQDP6l3YaONCbU4wlCf4tmDBx69GvRL/view?usp=sharing)
 
 - ⚡ Fun fact **I can blend in with yo vibe 🤣**
 
