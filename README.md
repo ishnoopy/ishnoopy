@@ -3,7 +3,7 @@
 <h3 align="center">A 'jack of all trades' web developer who make programs for the dopamine it gives. Loves the process, and embodies the principle of discipline and consistency in everything I do.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Angular, TypeScript**
+- 🌱 I’m currently learning **Angular, and TypeScript**
 
 - 👯 I’m looking to collaborate on **Anything! just hit me up, I got you.**
 
