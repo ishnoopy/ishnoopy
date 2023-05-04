@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruel Aldrin Guasa</h1>
-<h3 align="center">A 'jack of all trades' web developer who make programs for the dopamine it gives. Loves the process, and embodies the principle of discipline and consistency in everything I do.</h3>
+<h3 align="center">A 'jack of all trades' web developer who make programs for the dopamine it gives. 
+Loves the process, and embodies the principle of discipline and consistency in everything I do.</h3>
 
 - 🌱 I’m currently learning **Angular, TypeScript**
 
