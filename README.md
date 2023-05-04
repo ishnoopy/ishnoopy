@@ -1,7 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Ruel Aldrin Guasa</h1>
 <h3 align="center">A 'jack of all trades' web developer who make programs for the dopamine it gives. Loves the process, and embodies the principle of discipline and consistency in everything I do.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Angular, and TypeScript**
 
