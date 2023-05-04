@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://drive.google.com/file/d/16HQIxPAFF7YLYmbsNU_FqTp8ieFZbfUT/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Ruel Aldrin Guasa</h1>
 <h3 align="left">A 'jack of all trades' web developer who make programs for the dopamine it gives. Loves the process, and embodies the principle of discipline and consistency in everything I do.</h3>
 
