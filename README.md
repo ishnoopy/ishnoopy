@@ -4,7 +4,7 @@
 <h3 align="left">A passionate web developer who makes web apps for the dopamine it gives. Loves the process, and embodies the principle of consistency and discipline.</h3>
 
 
-- 🌱 I’m currently learning **Angular, and TypeScript**
+- 🌱 I’m currently learning **Laravel, and Eloquent ORM**
 
 - 👯 I’m looking to collaborate on **Anything! just hit me up, I got you.**
 
