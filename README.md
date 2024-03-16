@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/ishnoopy"><img src="https://api.daily.dev/devcards/v2/W4mzeOoclMyylS6X9cGk9.png?r=awa&type=default" width="356" alt="Ruel Aldrin Guasa's Dev Card"/></a>
+<a href="https://app.daily.dev/ishnoopy"><img src="https://api.daily.dev/devcards/v2/W4mzeOoclMyylS6X9cGk9.png?r=awa&type=wide" width="652" alt="Ruel Aldrin Guasa's Dev Card"/></a>
 
 <h1 align="center">Hi, I'm Aldrin 😎</h1>
 <h3 align="left">A passionate web developer who makes web apps for the dopamine it gives. Loves the process, and embodies the principle of consistency and discipline.</h3>
