@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Aldrin 😎</h1>
 <h3 align="left">A passionate web developer who makes web apps for the dopamine it gives. Loves the process, and embodies the principle of consistency and discipline.</h3>
 
-
 - 👯 I’m looking to collaborate on **Anything! just hit me up, I got you.**
 
 - 📫 How to reach me **aldringuasa@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oJQDP6l3YaONCbU4wlCf4tmDBx69GvRL/view?usp=sharing)
-
-- ⚡ Fun fact **I can blend in with yo vibe 🤣**
-<a href="https://app.daily.dev/ishnoopy"><img src="https://api.daily.dev/devcards/v2/W4mzeOoclMyylS6X9cGk9.png?r=awa&type=wide" width="652" alt="Ruel Aldrin Guasa's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
