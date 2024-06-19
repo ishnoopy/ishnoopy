@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aldringuasa@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oJQDP6l3YaONCbU4wlCf4tmDBx69GvRL/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1BWLa7FHfs1H8FnCeHRYw0tuAbUrbLd7t/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
