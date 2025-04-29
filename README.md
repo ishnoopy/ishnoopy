@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **aldringuasa@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1BWLa7FHfs1H8FnCeHRYw0tuAbUrbLd7t/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishnoopy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishnoopy" height="30" width="40" /></a>
